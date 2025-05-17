@@ -57,8 +57,8 @@
                 Presentation designing and Script or Story Writing.<br>
                 I always my best to complete a project.
             </p>
-            <div class="glow1"></div>
-            <div class="glow12"></div>
+            <div class="glow"></div>
+            <div class="glow></div>
             <div class="glow2"></div>
             <div class="glow22"></div>
             
