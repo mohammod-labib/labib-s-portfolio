@@ -30,9 +30,9 @@
                 <b>I am a student and <br> I am a developer and a designer</b>
             </p>
 
-             <h1> 
+             <p> 
                 This is my portfolio
-            h1>
+            </p>
 
              <p id="skills1">
                 <b>Skills</b>
