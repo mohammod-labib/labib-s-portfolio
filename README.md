@@ -32,11 +32,11 @@
 
              <h1> 
                 This is my portfolio
-            </h1>
+            h1>
 
-             <h1 id="skills1">
-                Skills
-            </h1>
+             <p id="skills1">
+                <b>Skills</b>
+            </p>
             <div class="view"></div>
             <div class="block1"></div>
             <div class="block2"></div>
