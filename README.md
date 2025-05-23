@@ -9,7 +9,7 @@
 
     <body>
 
-            <p> 
+            <p id="h23"> 
                 Hello world
             </p>
 
@@ -18,15 +18,17 @@
             </div> 
             <div id="line1"></div> 
             <div id="line12"></div>
-            <img id="img1" src="labib345.png" alt="labib345" width="325px">  
+            <div id="container">
+           <img id="img1" src="labib34593.jpg" alt="labib3459" > 
+            </div>
 
-            <h1 id="self1" width="500px">
-                     Hey,I am <br> Mohammod  Labib
-            </h1>
+            <p id="self1" width="500px">
+                    <b> Hey,I am <br> Mohammod  Labib</b>
+            </p>
 
-            <h3 id="pro1">
-                I am a student and <br> I am a developer and a designer
-            </h3>
+            <p id="pro1">
+                <b>I am a student and <br> I am a developer and a designer</b>
+            </p>
 
              <h1> 
                 This is my portfolio
@@ -43,7 +45,7 @@
             <div class="block21"></div>
             <div class="block31"></div>
 
-            <div id="line1"></div>
+            <div id="line13"></div>
 
             <a href="https://facebook.com" class="fb1">F</a>
             <p id="pwd">Web development</p>
@@ -57,11 +59,22 @@
                 Presentation designing and Script or Story Writing.<br>
                 I always my best to complete a project.
             </p>
-            <div class="glow"></div>
-            <div class="glow></div>
+            <div class="glow1"></div>
+            <div class="glow12"></div>
             <div class="glow2"></div>
             <div class="glow22"></div>
-            
+
+            <img id="imgp1" src="bc1.png" width="300px">
+            <img id="imgp2" src="bc2.jpg"  width="300px">
+            <img id="imgp3" src="bc3.jpg"  width="300px">
+            <img id="imgp4" src="bc4.jpg"  width="300px">
+            <img id="imgp5" src="bc5.jpg"  width="300px">
+            <img id="imgp6" src="bc6.jpg"  width="300px">
+            <img id="imgp7" src="bc7.jpg"  width="300px">
+
+            <p id="e27" ><b>Example</b></p>
+            <p id="slide345">Presentation slides</p>
+
     </body>
 
 
