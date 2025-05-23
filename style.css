@@ -81,11 +81,11 @@ body{
     
   
 }
-h1{
+#h1{
     color:white;
     position: absolute;
     left:38%;
-    top:-15px;
+    top:5px;
     font-size: 50px;
 }
 #line12{
@@ -105,7 +105,7 @@ h1{
     color:white;
     font-size: 100px;
     position: absolute;
-    top: 1010px;
+    top: 1000px;
     left: 40%;
     z-index: 300;
 
