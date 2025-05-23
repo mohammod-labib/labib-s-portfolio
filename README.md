@@ -30,7 +30,7 @@
                 <b>I am a student and <br> I am a developer and a designer</b>
             </p>
 
-             <p> 
+             <p id="h1"> 
                 This is my portfolio
             </p>
 
